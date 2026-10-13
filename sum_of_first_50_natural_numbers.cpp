@@ -1,3 +1,9 @@
+/*
+Program: Sum of First 50 Natural Numbers
+Name: Shariq waseem
+Registration Number: L1F25BSCS0630
+Assignment: Programming Fundamentals - Assignment 1
+*/
 #include <iostream>
 using namespace std;
 
